@@ -41,5 +41,6 @@ public class CustomerCheck
     public double calculateCheck()
     {
         /* to be implemented in part (c) */
+        System.out.println("hello");
     }
 }
